@@ -1,1 +1,1 @@
-# web-mintic
+# WEB-MINTIC-PROJECT
