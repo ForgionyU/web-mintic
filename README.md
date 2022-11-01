@@ -1,1 +1,1 @@
-# news.html
+# WEB-MINTIC-PROJECT
